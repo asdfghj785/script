@@ -9,6 +9,7 @@ https:\/\/www\.xiaodouzhuan\.cn\/jkd\/newMobileMenu\/infoMe\.action url script-r
 hostname = www.xiaodouzhuan.cn
 ~~~~~~~~~~~~~~~~
 
+
 */
 const $ = new Env('聚看点')
 const drawcash = $.getdata('jukan_cash') || "30" //提现金额
